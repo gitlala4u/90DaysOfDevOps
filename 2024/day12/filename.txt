@@ -1,0 +1,20 @@
+Day 12-________________________________________
+What is Git and why is it important?
+Git is a version control system (VCS) that helps developers track and manage changes in source code during software development. It enables collaboration by managing multiple versions of code across different developers, making the development lifecycle organized and efficient.
+________________________________________
+What is the difference between Main Branch and Master Branch?
+The terms "main" and "master" both refer to the default branch in a Git repository. Historically, "master" was the default branch name, but many platforms now use "main" as the default for inclusivity reasons. Functionally, they are the same.
+________________________________________
+Can you explain the difference between Git and GitHub?
+•	Git is a distributed version control system software used to track changes in files and coordinate work among developers.
+•	GitHub is a cloud-based platform that hosts Git repositories, enabling remote storage, collaboration, and additional features like issue tracking and pull requests.
+________________________________________
+How do you create a new repository on GitHub?
+You can create a new repository on GitHub through the web user interface (UI) by logging into your GitHub account, clicking the "New repository" button, and following the prompts to set repository name, description, and settings.
+________________________________________
+What is the difference between a local and a remote repository? How do you connect a local repository to a remote?
+•	A local repository exists on your own computer where you make and track changes.
+•	A remote repository is hosted on a server (like GitHub) that allows multiple contributors to collaborate.
+•	To connect a local repository to a remote, you use the Git command git remote add origin <remote-repo-URL>. After connection, you can push changes from local to remote with git push and fetch or pull changes from remote with git pull.
+________________________________________
+
