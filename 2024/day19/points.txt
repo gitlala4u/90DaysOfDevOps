@@ -1,0 +1,36 @@
+Designed and implemented end-to-end CI/CD pipelines in Azure DevOps for Allegro application covering build, test, artifact publishing, and automated deployments across Test, Staging, and Production environments.
+
+Maintained and enhanced pipelines based on evolving requirements and compliance needs.
+Implemented branching strategies (feature, release, hotfix).
+Automated deployments using multi-stage YAML pipelines with approval gates for production releases.
+
+Reduced release downtime by 30% through optimized CI/CD workflows.
+
+Deployed Docker images to Azure Kubernetes Service (AKS), including creation of Pods, Deployments, Services, and Load Balancers.
+
+
+Provisioned Azure services and resources using Terraform (Azure Virtual Machines, Managed Disks, Azure Blob Storage, Virtual Networks, Subnets, Route Tables, Azure Load Balancer, Network Security Groups, Scale Sets).
+
+
+Used Ansible as the primary automation tool for configuration management and deployment across multiple environments.
+
+Managed end-to-end release operations during downtimes, coordinating with business and technical teams to ensure smooth deployment.
+
+
+
+
+Monitored deployment stability, conducted sanity checks, and ensured high availability post-release.
+
+Ensuring high availability and scalability of applications by configuring Azure Load Balancer.
+
+
+Delivered 50+ production releases with zero rollback incidents.
+
+
+
+
+
+
+
+Acted as primary point of contact for release management.
+
